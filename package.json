@@ -1,0 +1,15 @@
+{
+  "name": "backendtodoapp",
+  "version": "1.0.0",
+  "description": "James todoApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todo",
+    "CRUD"
+  ],
+  "author": "Unekwuojo",
+  "license": "ISC"
+}
